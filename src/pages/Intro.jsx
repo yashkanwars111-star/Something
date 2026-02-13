@@ -1,7 +1,7 @@
 import { motion, AnimatePresence } from "framer-motion";
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
-import bg from "../assets/intro-bg.jpg"; // make sure this exists
+import bg from "../assets/Intro-bg.jpg"; // make sure this exists
 
 export default function Intro() {
   const [entered, setEntered] = useState(false);

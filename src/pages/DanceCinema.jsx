@@ -3,7 +3,7 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
 import danceBg from "../assets/dance-bg.jpg";
-import cinemaBg from "../assets/cinema-bg.jpg";
+import cinemaBg from "../assets/Cinema-bg.jpg";
 
 import d1 from "../assets/dance1.jpg";
 import d2 from "../assets/dance2.jpg";
